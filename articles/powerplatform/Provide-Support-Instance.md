@@ -76,6 +76,7 @@ Microsoft エンジニアより、サポートインスタンス環境名が通�
 ![](./Provide-Support-Instance/02_copy_environment_setting.png)
 
 __留意事項__
+
 監査ログはコピーするか否かを選択することができます。監査ログをコピーすると、環境のコピーにかかる時間が大幅に長くなる可能性があり、既定では実行されません。 [こちらのページ](https://learn.microsoft.com/ja-jp/power-platform/admin/copy-environment#copying-audit-logs) の操作を実行することで、環境コピーに監査ログを含めることができます。弊社エンジニアから監査ログのコピーを依頼された場合はご対応をお願いいたします。
 
 
